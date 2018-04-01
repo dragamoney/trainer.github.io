@@ -1,0 +1,593 @@
+/*block1*//* after_qbici */
+.block1 {
+    background: url(../img/b1.jpg) no-repeat center top;
+    height: 768px;
+    padding: 25px 0 0;
+}
+.logo {
+    background: url(../img/logo.png) no-repeat center top / contain;
+    width: 535px;
+    height: 50px;
+    margin: 0 auto;
+}
+.block1 h2 {
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 2.4px;
+    display: block;
+    width: 370px;
+    margin: 30px auto;
+    line-height: 32px;
+}
+.round-text {
+    width: 365px;
+    height: 365px;
+    border-radius: 50%;
+    margin: 0 auto;
+    background: -moz-linear-gradient(-45deg, rgba(3,100,218,0.93) 0%, rgba(61,191,10,0.93) 100%);
+    background: -webkit-linear-gradient(-45deg, rgba(3,100,218,0.93) 0%,rgba(61,191,10,0.93) 100%);
+    background: linear-gradient(135deg, rgba(3,100,218,0.93) 0%,rgba(61,191,10,0.93) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ed0364da', endColorstr='#ed3dbf0a',GradientType=1 );
+    padding-top: 40px;
+}
+.round-text h3 {
+    font-weight: 400;
+    margin-bottom: 16px;
+    line-height: 1.2em;
+}
+.round-text h3 span {
+    font-weight: 700;
+    display: block;
+}
+.round-text .rt_1 {
+    font-size: 24px;
+    text-align: center;
+}
+.round-text .rt_1 span {
+}
+.round-text .rt_2 {
+    font-size: 22px;
+    padding-left: 26px;
+}
+.round-text .rt_2 span {
+    padding-left: 83px;
+}
+.round-text .rt_3 {
+    font-size: 20px;
+    padding-left: 100px;
+}
+.round-text .rt_3 span {
+    padding-left: 34px;
+}
+.round-text .rt_4 {
+    font-size: 18px;
+    padding-left: 40px;
+}
+.round-text .rt_4 span {
+    padding-left: 16px;
+}
+.round-text .rt_5 {
+    font-size: 16px;
+    text-align: center;
+}
+.round-text .rt_5 span {
+}
+.best {
+    background: url(../img/best.png) no-repeat 0 0 / contain;
+    width: 95px;
+    height: 95px;
+    position: absolute;
+    top: 319px;
+    left: 254px;
+}
+.pricebut {
+    width: 350px;
+    float: right;
+    margin: -115px 0 0 0;
+}
+.pricebut .price {
+    float: right;
+    margin: 0 10px 10px 0;
+}
+.pricebut .button-m {
+    float: right;
+}
+p.stock {
+    text-align: right;
+    padding: 28px 0 0 0;
+}
+/*block2*//* endzeit_____ */
+.block2 {
+    padding: 0;
+    margin-top: -50px;
+}
+/*block3*//* michael-k90 */
+.block3 {
+    padding: 10px 0;
+}
+.plus-right {
+    float: right;
+    width: 300px;
+    background: #2d3240;
+    padding: 25px 20px;
+}
+.plus-right ul {
+}
+.plus-right ul li:not(:last-child) {
+    margin-bottom: 35px;
+}
+.plus-right ul li:before {
+    content: '01';
+    display: block;
+    font-weight: 700;
+    color:#40c300;
+    font-size: 32px;
+    line-height: 1em;
+    border-bottom: 1px solid #424753;
+    padding-bottom: 8px;
+    margin-bottom: 10px;
+}
+.plus-right ul li:nth-child(2):before {
+    content: '02';
+}
+.plus-right ul li:nth-child(3):before {
+    content: '03';
+}
+.plus-right ul h3 {
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+.plus-right ul p {
+    font-size: 18px;
+    line-height: 26px;
+}
+.plus-left {
+    float: left;
+    width: 630px;
+}
+.plus-left > div > img {
+    display: block;
+}
+.plus-left > div {
+    float: left;
+}
+/*block4*//* bizlife_inc */
+.block4 {
+    padding: 0;
+}
+.block4 img {
+    display: block;
+}
+/*block5*//* owmen17 */
+.block5 {
+    padding: 10px 0;
+}
+.about-right {
+    float: right;
+    background: #2d3240;
+    width: 610px;
+    padding: 28px 30px;
+}
+.about-right_title {
+    
+}
+.about-right_title div {
+    color:#ffc600;
+    font-size: 36px;
+    line-height: 1em;
+    font-weight: 700;
+    text-transform: uppercase;
+    float: left;
+    border-right: 1px solid #424753;
+    padding: 3px 20px 3px 0;
+    margin-right: 23px;
+}
+.about-right_title p {
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    overflow: hidden;
+    line-height: 17px;
+    padding-top: 3px;
+}
+.about-right > p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 20px;
+}
+.about-left {
+    float: left;
+}
+.about-left img {
+    display: block;
+}
+/*block6*//* after_qbici */
+.block6 {
+    padding: 0 0 10px 0;
+}
+.photo-right {
+    float: right;
+}
+.photo-right img {
+    display: block;
+}
+.photo-left {
+    float: left;
+}
+.photo-left img {
+    display: block;
+}
+/*block7*//* endzeit_____ */
+.block7 {
+    padding: 0;
+}
+.comment-cont {
+    background: #2d3240;
+    float: left;
+    width: 610px;
+    padding-top: 28px;
+}
+.reviews {
+}
+.reviews .rev {
+    text-align: center;
+}
+.rev > p {
+    font-size: 15px;
+    line-height: 22px;
+    padding: 20px 23px;
+}
+.rev > img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+}
+.person:before {
+    content: '';
+    display: block;
+    background: url(../img/quotes.png) no-repeat 0 0;
+    width: 32px;
+    height: 25px;
+    margin: 0 auto 14px;
+}
+.person p {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+}
+.person span {
+    font-size: 15px;
+}
+.ship {
+    border-top:1px solid #424753;
+    padding: 20px 0 30px;
+    margin: 20px 25px 0;
+}
+.ship ul {
+}
+.ship li {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 14px;
+    line-height: 22px;
+    background: url(../img/s1.png) no-repeat 0 0;
+    height: 53px;
+    padding: 5px 12px 0 64px;
+}
+.ship li:nth-child(2) {
+    background-image: url(../img/s2.png);
+}
+
+
+.form-cont {
+    background: #2d3240;
+    float: right;
+    width: 320px;
+    padding-bottom: 20px;
+}
+.form-cont_title {
+    text-align: center;
+    padding: 20px 0;
+}
+.form-cont_title span {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: block;
+}
+.form-cont_title h3 {
+    font-size: 36px;
+    color:#ffc600;
+    padding-bottom: 5px;
+}
+.fstock {
+    font-size: 15px;
+    text-align: center;
+    padding: 15px 0 0;
+    line-height: 18px;
+}
+/*block8*//* michael-k90 */
+  
+/*block9*//* bizlife_inc */
+
+
+/*block10*//* owmen17 */
+
+
+.footer {
+    text-align: center;
+    padding: 60px 0 40px;
+}
+.footer a {
+    font-size: 14px;
+    color:#a9afbf;
+    padding: 0 5px;
+}
+/*-------------------------------------- Media Queries ----959---------------------------------*//* after_qbici */    
+@media screen and (max-width: 976px) {
+    .block1 {
+        background: url(../img/b1m.jpg) no-repeat center top;
+}
+    .logo {
+        width: 429px;
+        height: 40px;
+}
+    .block1 h2 {
+        font-size: 20px;
+        letter-spacing: 2px;
+        display: block;
+        width: 340px;
+        margin: 15px auto 30px;
+        line-height: 26px;
+}
+    .best {
+        top: 381px;
+        left: 63px;
+}
+    p.stock {
+        padding: 16px 0 0 0;
+}
+    .pricebut {
+        margin: -17px 0 0 0;
+}
+    .block2 {
+        margin-top: 0;
+        padding: 30px 0 0;
+}
+    .video-container {
+        height: 350px;
+}
+    .plus-right {
+        float: none;
+        width: 100%;
+        padding: 32px 40px;
+        margin-bottom: 10px;
+}
+    .plus-right ul li:not(:last-child) {
+        margin-bottom: 30px;
+}
+    .plus-left > div  {
+        width: 310px;
+}
+    .plus-left {
+        float: none;
+        width: 100%;
+}
+    .about-right {
+        float: none;
+        width: 100%;
+        margin-bottom: 10px;
+}
+    .about-left {
+        float: none;
+        width: 305px;
+        margin-bottom: -315px;
+}
+    .photo-right {
+        width: 305px;
+        margin-bottom: 10px;
+}
+    .photo-left {
+        float: none;
+        width: 100%;
+}
+    .photo-left img {
+        width: 100%;
+    }
+    .comment-cont {
+        width: 295px;
+        padding-top: 20px;
+}
+    .form-cont {
+        width: 315px;
+        padding-bottom: 35px;
+}
+    /* Arrows */
+.slick-prev,
+.slick-next{
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 45px;
+    display: block;
+    width: 32px;
+    height: 32px;
+    padding: 0;    
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: url(../img/arrow.png) no-repeat 0 0;
+    z-index: 3;
+}
+.slick-prev{
+    left: 30px;
+}
+.slick-next{
+    right: 30px;
+    -moz-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+    .ship li {
+        width: 100%;
+        padding: 5px 0px 0 64px;
+}
+    .ship li:first-child {
+        margin-bottom: 10px;
+    }
+    .ship {
+        padding: 16px 0 17px;
+        margin: 20px 15px 0;
+}
+    .form-cont_title {
+        padding: 39px 0 35px;
+}
+    .fstock {
+        padding: 25px 0 0;
+}
+}
+/*-------------------------------------- Media Queries ----639---------------------------------*//* michael-k90 */ 
+@media screen and (max-width: 659px) {
+    .block1 {
+        background: url(../img/b1s.jpg) no-repeat center top;
+        height: auto;
+        padding-top: 16px;
+}
+    .logo {
+        width: 275px;
+        height: 26px;
+}  
+    .block1 h2 {
+        font-size: 18px;
+        letter-spacing: 1.8px;
+        width: 100%;
+        margin: 12px auto 226px;
+        line-height: 21px;
+}
+    .round-text h3 {
+        margin-bottom: 15px;
+        line-height: 1.1em;
+    }
+    .round-text {
+        width: 290px;
+        height: 290px;
+        padding-top: 28px;
+        position: relative;
+    }
+    .round-text:before {
+        content: '';
+        display: block;
+        background: url(../img/tovar.png) no-repeat 0 0;
+        width: 106px;
+        height: 156px;
+        position: absolute;
+        top: -94px;
+        left: -11px;
+    }
+    .round-text .rt_1 {
+        font-size: 19px;
+}
+    .round-text .rt_2 {
+        font-size: 18px;
+        padding-left: 31px;
+}
+    .round-text .rt_3 {
+        font-size: 17px;
+        padding-left: 74px;
+}
+    .round-text .rt_4 {
+        font-size: 16px;
+}
+    .round-text .rt_5 {
+        font-size: 15px;
+}
+    .best {
+        width: 56px;
+        height: 56px;
+        top: 424px;
+        left: 24px;
+}
+    .pricebut {
+        width: 100%;
+        float: none;
+        margin: -5px auto 0;
+        z-index: 3;
+        position: relative;
+}
+    p.stock {
+        text-align: center;
+}
+    .pricebut .price {
+        float: none;
+        margin: 0 auto 20px;
+}
+    .video-container {
+        height: 180px;
+}
+    .plus-left > div {
+        margin-bottom: 10px;
+    }
+    .block3 {
+        padding-bottom: 0;
+    }
+    .plus-right {
+        padding: 20px 20px;
+}
+    .plus-right ul h3 {
+        font-size: 18px;
+        line-height: 24px;
+}
+    .plus-right ul p {
+        font-size: 16px;
+        line-height: 24px;
+}
+    .plus-left > div, .photo-right, .comment-cont, .form-cont {
+        width: 100%;
+        float: none;
+}    
+    .about-right {
+        float: none;
+        width: 100%;
+        padding: 15px;
+}
+    .about-right_title div {
+        font-size: 36px;
+        float: none;
+        border-right: none;
+        padding: 0 0 5px 0;
+        margin-right: 0;
+}
+    .about-right > p {
+        font-size: 16px;
+        line-height: 24px;
+}
+    .about-left {
+        width: 100%;
+        margin-bottom: 0;
+}
+    .comment-cont {
+        margin-bottom: 10px;
+    }
+    .form-cont_title {
+        padding: 20px 0 26px;
+}
+    .fstock {
+        padding: 20px 0 0;
+}
+    .form-cont {
+        padding-bottom: 25px;
+}
+    .m1-form .button-m {
+        width: 280px;
+}
+    .footer {
+        text-align: center;
+        padding: 40px 0 30px;
+}
+}
